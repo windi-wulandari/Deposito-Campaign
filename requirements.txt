@@ -1,0 +1,25 @@
+-- For Modelling 
+Pandas==2.2.2
+Numpy==1.26.4
+Plotly==5.24.1
+Matplotlib==3.7.1
+Seaborn==0.13.2
+Scikit-learn==1.5.2
+Imbalanced-learn==0.12.4
+XGBoost==2.1.1
+
+
+
+-- For Deployment in VSCode
+pip install Flask
+pip install pandas
+pip install scikit-learn
+pip install XGBoost
+pip install -r requirements.txt
+
+
+Flask==2.3.2
+numpy==1.25.2
+pandas==2.0.3
+scikit-learn==1.3.0
+pickle-mixin==1.0.2
